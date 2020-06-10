@@ -7,4 +7,4 @@ class Artist
   
   
 end 
-artist = "drake"
+"Drake" = Artist.new
