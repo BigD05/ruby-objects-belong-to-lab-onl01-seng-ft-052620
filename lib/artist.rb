@@ -7,4 +7,4 @@ class Artist
   
   
 end 
-"Drake" =Artist.new
+"Drake"= Artist.new
